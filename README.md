@@ -1,9 +1,7 @@
 # Graduação em Marcenaria
-***
 ## Este é um documento voltado para a criação de um curso de graduação em marcenaria
-***
 <p> Grade Curricular </p>
-
+***
 <p>Marcenaria</p>
 
 * Introdução a Marcenaria
@@ -33,3 +31,5 @@ Negócios
 * Matemática financeira
 * Plano de negócios
 * Marketing
+
+***
